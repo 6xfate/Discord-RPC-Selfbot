@@ -6,7 +6,7 @@ module.exports = {
     // dnd/online/idle
     "status": "",
 
-    "game": {
+    "game": {kms
         "applicationID": "1190626323958341632",
 
         "name": "Killing MySelf", // title
