@@ -7,11 +7,11 @@ module.exports = {
     "status": "",
 
     "game": {
-        "applicationID": "",
+        "applicationID": "1190626323958341632",
 
-        "name": "", // title
-        "details": "", // first row below title
-        "state": "", // row below first row
+        "name": "Killing MySelf", // title
+        "details": "not emo", // first row below title
+        "state": "(ril)", // row below first row
 
         "largeImageKey": "", // Large Image
         "largeImageText": "", // the text when img surrounded (default is largeimage name in dev portal)
